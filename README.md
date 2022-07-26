@@ -1,0 +1,1 @@
+This is an attempt to make a voice assistent i.e similar to JARVIS (in iron man movie) Let's be honest, its not as perfect as compared to the movie, but it can do a lot of cool things and automate my daily tasks that can do on my computer/laptop and mobile and it can also accesss my home applications, which can work using my voice command.
